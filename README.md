@@ -70,7 +70,7 @@
 
 [website]: https://saxenaaman800001e.myportfolio.com/work
 [instagram]: https://instagram.com/___notorious1
-[linkedin]: https://linkedin.com/in//aman-saxena
+[linkedin]: https://linkedin.com/in/aman-saxena-06ab79170/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4

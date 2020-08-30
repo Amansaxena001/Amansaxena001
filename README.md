@@ -37,10 +37,6 @@
 
 ---
 
-
-
-
-
 <details>
   <summary>:zap: Recent Github Activity</summary>
   

@@ -1,4 +1,4 @@
-### Hi there, I'm Aman - aka [dementedmedia][website] 👋
+### Hi there, I'm Aman  👋
 
 
 ## I'm a esports player, musician, and Developer.

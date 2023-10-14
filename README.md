@@ -3,7 +3,6 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/48/undefined/linkedin-circled--v1.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" />][instagram]
 
 <br />
 
@@ -25,5 +24,4 @@
 ---
 
 
-[instagram]: https://instagram.com/___notorious1
 [linkedin]: https://linkedin.com/in/aman-saxena-06ab79170/

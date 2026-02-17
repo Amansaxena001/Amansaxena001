@@ -1,5 +1,5 @@
 Hi there, I'm Aman 👋
-I'm a Software Engineer specializing in Frontend Development with a strong foundation in Mathematics and Core Software Engineering principles. I love building intuitive, performant user interfaces and solving complex problems through elegant code and mathematical thinking.
+I'm a Software Engineer specializing in Frontend Development with a strong foundation in Mathematics and Core Software Engineering principles. I love building intuitive, performant user interfaces and solving complex problems through elegant code. <br/>
 💻 What I do:
 
 Craft scalable frontend architectures with modern JavaScript frameworks
